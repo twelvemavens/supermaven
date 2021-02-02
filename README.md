@@ -1,6 +1,4 @@
 <p align="center">
-   <br>
-   <br>
    <samp>
      Welcome to Supermavens! 👋<br>
      Tech Stack: Swift, Kotlin, React Native, React, Vue, Ruby on Rails, Python <br>
