@@ -1,6 +1,6 @@
 <p align="center">
    <samp>
-     Welcome to Supermavens! 👋<br>
+     Welcome to Supermavens! 
      	<a href='mailto:sunavenue.ca@gmail.com'>:e-mail:</a> <br>
    </samp>
    
